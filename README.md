@@ -1,6 +1,6 @@
 # Visual EEG ERP Replication Project
 
-A small TKS Replicate project exploring how the brain's average electrical response changes when a person views different kinds of images. It uses the [Kaneshiro2015 dataset in MOABB](https://moabb.neurotechx.com/docs/generated/moabb.datasets.Kaneshiro2015.html) to compare **event-related potentials (ERPs)**: EEG signals averaged across trials and aligned to the moment an image appears.
+A Replicate project exploring how the brain's average electrical response changes when a person views different kinds of images. It uses the [Kaneshiro2015 dataset in MOABB](https://moabb.neurotechx.com/docs/generated/moabb.datasets.Kaneshiro2015.html) to compare **event-related potentials (ERPs)**: EEG signals averaged across trials and aligned to the moment an image appears.
 
 This is a descriptive exploration inspired by the original study, not a full reproduction of its classification or representational similarity analysis. It uses no classifier or machine learning.
 
